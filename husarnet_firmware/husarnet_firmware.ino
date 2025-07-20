@@ -3,7 +3,7 @@
 #include <ArduinoJson.h>
 
 // Husarnet info
-const char* husarnetJoinCode = "YOUR_JOIN_CODE_HERE";
+const char* husarnetJoinCode = "JOIN_CODE_HERE";
 const char* husarnetHostname = "esp32-airlock-controller";
 
 struct AirlockStatus {
